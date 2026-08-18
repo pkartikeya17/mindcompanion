@@ -4,3 +4,6 @@ myenv/
 
 # Python Cache
 __pycache__/
+
+# Security and API Keys
+.env
